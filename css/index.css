@@ -1,13 +1,9 @@
-@media (prefers-color-scheme: dark) {
-    html { background-color: #111111; color: #fbfbfb; }
-    a { color: #ca8465; }
-  }
-  body {
+  html {
     line-height: 1.6;
     font-family: "Georgia"; 
     text-rendering: optimizeLegibility;
     text-align: justify;
-    margin: 0 25%;
+    margin: 0 auto;
    display: flex;
     flex-direction: column;
     max-width: 39em;
