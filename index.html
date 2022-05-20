@@ -16,6 +16,8 @@
    -->
   <title>Antonio J Sanchez-Padial</title>
   <link href="css/index.css" rel = "stylesheet">
+
+  <script src="js/htmx.min.js" defer></script>
 </head>
 
 <body>
@@ -29,18 +31,7 @@
   </div>
   -->
 
-  <div class="menu" id="menu-head">
-    <a class="u-url" href="https://twitter.com/ajspadial" target="_blank" rel="external me">twitter</a>
-    ·
-    <a class="u-url" href="https://scholar.google.es/citations?user=Z5lx1_0AAAAJ" target="_blank" rel="external me">google scholar</a>
-    ·
-    <a class="u-url" href="https://github.com/ajspadial" target="_blank" rel="external me">github </a>
-    ·
-    <a class="u-url" href="https://orcid.org/0000-0001-9532-3133" target="_blank" rel="external me">orcid</a>
-    ·
-    <a class="u-url" href="https://publons.com/researcher/1487009/antonio-j-sanchez-padial/" target="_blank" rel="external me">publons</a>
-    ·
-    <a class="u-url" href="https://lichess.org/@/ElPadial" target="_blank" rel="external me">lichess</a>
+  <div hx-get="/components/menu.html" id="menu-head" hx-trigger="load">
   </div>
 
   <!-- Reference for representative h-card properties: https://microformats.org/wiki/h-card -->  
@@ -100,18 +91,7 @@
 
   </main>
 
-  <div class="menu">
-    <a href="https://twitter.com/ajspadial" target="_blank" rel="external">twitter</a>
-    ·
-    <a href="https://scholar.google.es/citations?user=Z5lx1_0AAAAJ" target="_blank" rel="external">google scholar</a>
-    ·
-    <a href="https://github.com/ajspadial" target="_blank" rel="external">github </a>
-    ·
-    <a href="https://orcid.org/0000-0001-9532-3133" target="_blank" rel="external">orcid</a>
-    ·
-    <a href="https://publons.com/researcher/1487009/antonio-j-sanchez-padial/" target="_blank" rel="external">publons</a>
-    ·
-    <a href="https://lichess.org/@/ElPadial" target="_blank" rel="external">lichess</a>
+  <div hx-get="/components/menu.html" id="menu-head" hx-trigger="load">
   </div>
 
 </body>
