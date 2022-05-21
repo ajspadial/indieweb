@@ -87,7 +87,7 @@
 
     </main>
 
-    <?php include("/components/menu.html");?>
+    <?php include("./components/menu.html");?>
   </div>
 </body>
 
