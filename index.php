@@ -36,11 +36,11 @@
   <!-- Reference for representative h-card properties: https://microformats.org/wiki/h-card -->
       <header rel="author">
 
-        <img class="u-photo" id="retratu" alt="Retratu" src="images/M_Q1Be0g_400x400.jpg" width = "150" height = "150"
-        onmouseover="this.src='images/M_Q1Be0g_400x400.jpg';"
-        onmouseout="this.src='http://placebear.com/200/200';">
+        <img class="u-photo" id="retratu" alt="Retratu" src="/images/M_Q1Be0g_400x400.jpg" width = "150" height = "150"
+        onmouseover="this.src='/images/M_Q1Be0g_400x400.jpg';"
+        onmouseout="this.src='/images/bear200.jpg';">
         <script>
-          document.getElementById("retratu").src = "http://placebear.com/200/200";
+          document.getElementById("retratu").src = "/images/bear200.jpg";
         </script>
 
         <h1 class="p-name">
@@ -87,8 +87,7 @@
 
     </main>
 
-    <div hx-get="/components/menu.html" id="menu-head" hx-trigger="load">
-    </div>
+    <?php include("/components/menu.html");?>
   </div>
 </body>
 
