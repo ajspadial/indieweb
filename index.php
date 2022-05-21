@@ -86,11 +86,10 @@
       </p>
 
     </main>
-  </div>
 
-  <div hx-get="/components/menu.html" id="menu-head" hx-trigger="load">
+    <div hx-get="/components/menu.html" id="menu-head" hx-trigger="load">
+    </div>
   </div>
-
 </body>
 
 </html>
