@@ -68,21 +68,8 @@
         <span class="p-org">Fundación Española pa la Ciencia y la Teunoloxía</span>
       </p>
 
-      <p> Bienveníos a esti sitiu web. El mi nome ye Antonio Sánchez-Padial, soi inxenieru n'informática y llevo casi 20 años <span class="p-note">metiendo bits
-        a trabayar al serviciu de la Ciencia</span>. A lo caberu de 2003 entré nel Departamentu d'Hidroxeoloxía ya Agües Soterránees del 
-        <a href="https://www.igme.es" target="_blank" rel="external">Institutu Xeológicu y Mineru d'España</a>. Dende entós, tola mio carrera afítase nel seutor científicu nacional. 
-        Nun ye que crea na predestinación, pero l'añu que dixe 
-        que yá valiera, que yera hora d'alcontrar otres estayes, aprobé les oposiciones de Teúnico Superior Especializáu de los Organismos Públicos
-        d'Investigación. Yera 2008 y xuníme al <a href="http://cchs.csic.es" target="_blank" rel="external">Centru de Ciencies Humanes y Sociales del CSIC</a>. 
-        Los mis siguientes destinos fueron el <a href="https://www.inia.es"  target="_blank" rel="external">Institutu 
-        Nacional de Investigación y Teunoloxía Agraria y Allimentaria</a> , en 2014, y la <a href="https://www.ciencia.gob.es/Organismos-y-Centros/Infraestructuras-Cientificas-y-Tecnicas-Singulares-ICTS.html" target="_blank" rel="external">Subdireción Xeneral de Grandes Infraestructures Científico-Téuniques</a> 
-        del Ministeriu de Ciencia e Innovación, en 2019.
-        Dende 2021, trabayo na <a href="https://fecyt.es" target="_blank" rel="external">Fundación Española pa la Ciencia y la Teunoloxía</a>.
-
-      </p>
-      <p> Dende 2017, soi profesor asociáu. El primer añu, aprendiendo Inxeniería del Software na <a href="https://www.uc3m.es/eps/inicio" target="_blank" rel="external">Universidad Carlos III de Madrid</a>; y dende entós na 
-        <a href="https://informatica.ucm.es/" target="_blank" rel="external">Universidad Complutense de Madrid</a>, aprendiendo Bases de Datos ya Programación.
-      </p>
+      <p> Desde 2003, pongo bits a trabayar al serviciu de la Ciencia. Agora en <a href="https://fecyt.es" target="_blank" rel="external">FECYT</a>.
+      Tamién soi profesor na <a href="https://informatica.ucm.es/" target="_blank" rel="external">Facultá de Informática</a> de la Universidad Complutense de Madrid.</p>
 
     </main>
 
