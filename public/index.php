@@ -49,19 +49,22 @@
 
 <!-- TODO
         -- Si tas viendo esto nun ye un descuidu, ye pa alcordame de les fasteres que quiero poner
-        <div class="menu inner-menu">
+  -->
+         <div class="menu inner-menu">
           <a class ="current-menu">aniciu</a>
           ·
+          <!--
           <a href="enseñu">enseñu</a>
           ·
-          <a href="http://blog.spadial.com" target="_self">blog</a>
-          
+  -->
+          <a href="/blog" target="_self">blog</a>
+     <!--     
           ·
           <a href="nodicies">nes nodícies</a>
           ·
           <a href=""erros">erros</a>
-          
-        </div>-->
+  --> 
+        </div>
     <main>
       <p id="job-title">
         <span class="p-job-title">Direutor de Teunoloxía y Sistemes (TIC)</span> na <br/>
@@ -73,7 +76,7 @@
 
     </main>
 
-    <?php include("./components/menu.html");?>
+    <?php include("../components/menu.html");?>
   </div>
 </body>
 

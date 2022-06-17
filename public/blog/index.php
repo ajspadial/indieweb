@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ast">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+  <!-- To use social readers via microsub, follow these steps.
+    (Details: https://indieweb.org/Microsub#Getting_Started)
+    1. After publishing this to your domain, sign in to https://aperture.p3k.io/login with your domain
+    2. You will see a <link> tag displayed on your dashboard that looks like:
+      <link rel="microsub" href="https://aperture.p3k.io/microsub/000">
+    3. Copy that <link> tag and paste it after this HTML comment.
+    4. Publish the updated page!
+   -->
+  <title>Bits al serviciu de la Ciencia</title>
+  <link href="../css/index.css" rel = "stylesheet">
+
+  <script src="../js/htmx.min.js" defer></script>
+</head>
+
+<body>
+<?php 
+  $uri = $_SERVER['REQUEST_URI']; 
+  if (str_ends_with($uri, '/blog') ) {
+    require ('../../components/blog_home.php');
+  }
+  else {
+    require('../../components/blog_page.php');
+  }
+?>
+
+</body>
+
+</html>
