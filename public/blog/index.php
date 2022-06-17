@@ -23,7 +23,7 @@
 <body>
 <?php 
   $uri = $_SERVER['REQUEST_URI']; 
-  if (str_ends_with($uri, '/blog') ) {
+  if (str_ends_with(trim($uri,"/ \t\n\r\0\x0B"), 'blog') ) {
     require ('../../components/blog_home.php');
   }
   else {
