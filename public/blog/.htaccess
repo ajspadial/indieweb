@@ -1,4 +1,1 @@
-RewriteEngine on
-RewriteCond %{REQUEST_URI} !-f
-RewriteCond %{REQUEST_URI} !-d
-RewriteRule (.*) index.php [R,QSA]
+ErrorDocument index.php
