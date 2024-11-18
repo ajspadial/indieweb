@@ -1,5 +1,5 @@
 ---
-title: "Antonio JS Padial"
+title: "Antonio J. Sánchez-Padial"
 image: profile.jpg
 about:
   template: jolla
@@ -16,4 +16,7 @@ about:
 
 ---
 
-About this blog
+<strong>Meto bits a furrular al serviciu de la Ciencia</strong>
+
+Inxenieru n'Informática y funcionariu de carrera.<br/>
+Nos Organismos Públicos d'Investigación dende 2003. Agora nel Ciemat.
