@@ -5,9 +5,8 @@ website:
   title: "Bits in servicio Scientiae"
 format:
   html:
-    theme:
-      - yeti
-      - custom.scss
+    theme: default
     backgroundcolor: rgb(233, 235, 237)
     mainfont: Georgia
     css: styles.css
+    linkcolor: rgb(90, 111, 126)
