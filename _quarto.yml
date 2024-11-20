@@ -10,3 +10,5 @@ format:
     mainfont: Georgia
     css: styles.css
     linkcolor: rgb(90, 111, 126)
+    fontsize: 110%
+    fontcolor: rgb(23,29,13)
