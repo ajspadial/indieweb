@@ -1,5 +1,9 @@
 /* css styles */
 
+a {
+    text-decoration: underline;
+}
+
 a:hover {
     text-decoration: overline;
     color: #423e1a;

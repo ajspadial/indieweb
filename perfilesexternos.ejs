@@ -3,9 +3,9 @@
     <%
     let first = true;
     for (const item of items) { %>
-        <% if (!first) { %> <a> · </a> <% } %>
+        <% if (!first) { %> <span> · </span> <% } %>
 
-        <a href="<%= item.href %>" class="link"><%- item.text %></a>
+        <a href="<%= item.href %>"><%- item.text %></a>
 
         <% if (first) first = false; %>
     <% } %>
