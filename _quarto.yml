@@ -3,16 +3,11 @@ project:
 
 website:
   title: "Bits in servicio Scientiae"
-  navbar:
-    right:
-      - blog.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     theme:
       - yeti
       - custom.scss
+    backgroundcolor: rgb(233, 235, 237)
+    mainfont: Georgia
     css: styles.css

@@ -2,6 +2,7 @@
 title: "Antonio J. Sánchez-Padial"
 image: profile.jpg
 about:
+  image-width: 150px
   template: jolla
   links:
     - icon: twitter
