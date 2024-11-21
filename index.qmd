@@ -40,7 +40,6 @@ about:
 ::: {#main-menu}
 :::
 
-sd
 <strong>Meto bits a furrular al serviciu de la Ciencia</strong>
 
 Inxenieru n'Informática y funcionariu de carrera.<br/>
