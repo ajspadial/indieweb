@@ -4,8 +4,19 @@
     let first = true;
     for (const item of items) { %>
         <% if (!first) { %> <span> · </span> <% } %>
-
-        <a href="<%= item.href %>"><%- item.text %></a>
+        <% if (templateParams.opcion == item.text) {%>
+            <span class="current-menu">
+        <% } else { %>
+            <a href="<%= item.href %>">
+        <% } %>
+            
+        <%- item.text %>
+    
+        <% if (templateParams.opcion == item.text) {%>
+            </span>
+        <% } else { %>
+            </a>
+        <% } %>
 
         <% if (first) first = false; %>
     <% } %>

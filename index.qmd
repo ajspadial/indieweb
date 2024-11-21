@@ -2,30 +2,45 @@
 title: "Antonio J. Sánchez-Padial"
 image: profile.jpg
 listing:
-  id: perfiles-externos
-  template: perfilesexternos.ejs
-  contents:
-    - text: µblogging
-      href: https://bsky.app/profile/ajspadial.bsky.social
-    - text: linkedIn
-      href: https://linkedin.com/li/ajspadial
-    - text: github
-      href: https://github.com/ajspadial
-    - text: "google scholar"
-      href: https://scholar.google.es/citations?user=Z5lx1_0AAAAJ
-    - text: orcid
-      href: https://orcid.org/0000-0001-9532-3133
-    - text: publons
-      href: https://publons.com/researcher/1487009/antonio-j-sanchez-padial/
-    - text: lichess
-      href: https://lichess.org/@/ElPadial
+  - id: main-menu
+    template: perfilesexternos.ejs
+    template-params:
+      opcion: aniciu
+    contents:
+      - text: aniciu
+        href: http://dev.spadial.com
+      - text: blog
+        href: http://dev.spadial.com/blog
+  - id: perfiles-externos
+    template: perfilesexternos.ejs
+    template-params:
+      opcion: none
+    contents:
+      - text: µblogging
+        href: https://bsky.app/profile/ajspadial.bsky.social
+      - text: linkedin
+        href: https://linkedin.com/li/ajspadial
+      - text: github
+        href: https://github.com/ajspadial
+      - text: "google scholar"
+        href: https://scholar.google.es/citations?user=Z5lx1_0AAAAJ
+      - text: orcid
+        href: https://orcid.org/0000-0001-9532-3133
+      - text: publons
+        href: https://publons.com/researcher/1487009/antonio-j-sanchez-padial/
+      - text: lichess
+        href: https://lichess.org/@/ElPadial
 about:
-  image-width: 150px
+  # image-width: 150px
   template: jolla
  
 
 ---
 
+::: {#main-menu}
+:::
+
+sd
 <strong>Meto bits a furrular al serviciu de la Ciencia</strong>
 
 Inxenieru n'Informática y funcionariu de carrera.<br/>
