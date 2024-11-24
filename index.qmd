@@ -31,7 +31,7 @@ listing:
       - text: lichess
         href: https://lichess.org/@/ElPadial
 about:
-  # image-width: 150px
+  image-width: 200px
   template: jolla
  
 
