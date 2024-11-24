@@ -10,7 +10,7 @@ listing:
       - text: aniciu
         href: http://dev.spadial.com
       - text: blog
-        href: http://dev.spadial.com/blog
+        href: /blog
   - id: perfiles-externos
     template: perfilesexternos.ejs
     template-params:
