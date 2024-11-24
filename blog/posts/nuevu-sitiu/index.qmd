@@ -8,6 +8,11 @@ categories: [blog]
 title-block-banner: false
 ---
 
+::: {.callout-note}
+Este artículo se mantiene por cuestiones históricas. La sección sobre herramientas
+está desactualizada, y no responde al funcionamiento actual del sitio.
+:::
+
 Inspiráu nos sitios web de:
 
 * [Daniel Gayo](https://danigayo.info/), y sobre too los sos [vídeos](https://www.youtube.com/playlist?list=PLoSpcFclox5vvSS3cMXhij9HIHK15iDtj).  
