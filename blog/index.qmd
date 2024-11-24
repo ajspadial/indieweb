@@ -2,7 +2,7 @@
 title: "Bits in servicio Cienciae"
 subtitle: "Un blog de Antonio J. Sánchez-Padial"
 lang: es
-language: asturianu.yml
+language: ../asturianu.yml
 listing:
   - id: blog
     contents: posts
