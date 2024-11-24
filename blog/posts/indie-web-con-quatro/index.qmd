@@ -1,0 +1,16 @@
+---
+title: "Indie web con Quatro"
+lang: ast
+language: ../../../asturianu.yml
+date: "2022-06-18"
+draft: true
+categories: [indieweb, quatro, blog]
+
+title-block-banner: false
+---
+
+1. La indie web
+
+2. Quatro
+
+3. Customizando el sitio

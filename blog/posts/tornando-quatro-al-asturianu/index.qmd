@@ -1,0 +1,23 @@
+---
+title: "Tornando Quatro al asturianu"
+lang: ast
+language: ../../../asturianu.yml
+date: "2022-06-18"
+draft: true
+categories: [asturianu, diy]
+
+title-block-banner: false
+---
+
+1. Instrucciones xenerales
+
+2. Falten les feches
+
+3. Atopando el códigu en github
+3.1 Como ta fecho Quatro
+
+4. Editando DayJs
+
+5. Editando Quatro
+
+6. Pull Request 

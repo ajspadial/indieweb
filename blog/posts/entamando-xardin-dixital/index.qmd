@@ -1,0 +1,14 @@
+---
+title: "Entamando un xardín dixital"
+lang: ast
+language: ../../../asturianu.yml
+date: "2022-06-18"
+draft: true
+categories: [indieweb, diy]
+
+title-block-banner: false
+---
+
+1. El xardín de ladybenko
+
+2. planes pal mio xardín
