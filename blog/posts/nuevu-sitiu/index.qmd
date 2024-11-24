@@ -1,0 +1,34 @@
+---
+title: "Nuevu sitiu spadial.com"
+lang: ast
+language: ../../../asturianu.yml
+date: "2022-06-18"
+categories: [blog]
+
+title-block-banner: false
+---
+
+Inspiráu nos sitios web de:
+
+* Daniel Gayo, y sobre too los sos vídeos.  
+* Aaron Swartz. Gracies por too.  
+* Greg Conti. Y munchos académicos que siguen faciendo webs comu si tuviéramos en 1994.
+
+### Ferramientes
+
+* La plantilla del sitiu básico de indieweb.
+* Enseños de Daniel Gayo.
+* Coolors, pa escoyer les paletes de colores
+* Nun teo idea de CSS, asina que copie, corte, pegué, probé hasta que salió como me presta nel ordenador 
+    y nel móvil.
+* htmx, pa utilizar ensín esfuerzu algunes coses típiques de les SPA.
+* PHP, primeru nun quería, pero llueú una cosa lleva a otra, y acaba habiendo delles cosines en PHP tamién.
+
+## ¿Qué sinifica l’osu?
+
+El mi sitiu anterior taba basau na plantilla básica indieweb, que pa las semeyes fae usu de placebear.com,
+ un serviciu web que ofrez semeyes de osos del tamaño que y-pidas. Asina que aquella web tenía unos osos.
+
+Cuando entamé los cambios los osos quedaron ehí, y a lo caberu cuandu fui meter el mi retratu facíaseme
+raru veme ehí, donde enantes había esos osos tan guapos. Así que, como los personaxes de El Dorado dixe:
+Both is good.
