@@ -1,10 +1,10 @@
 ---
 title: "Antonio J. Sánchez-Padial"
-image: profile.jpg
+image: ../profile.jpg
 lang: ast
 listing:
   - id: main-menu
-    template: perfilesexternos.ejs
+    template: ../perfilesexternos.ejs
     template-params:
       opcion: aniciu
     contents:
@@ -13,7 +13,7 @@ listing:
       - text: blog
         href: /blog
   - id: perfiles-externos
-    template: perfilesexternos.ejs
+    template: ../perfilesexternos.ejs
     template-params:
       opcion: none
     contents:

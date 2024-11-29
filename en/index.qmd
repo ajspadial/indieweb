@@ -1,19 +1,19 @@
 ---
 title: "Antonio J. Sánchez-Padial"
-image: profile.jpg
-lang: ast
+image: ../profile.jpg
+lang: en
 listing:
   - id: main-menu
-    template: perfilesexternos.ejs
+    template: ../perfilesexternos.ejs
     template-params:
-      opcion: aniciu
+      opcion: home
     contents:
-      - text: aniciu
+      - text: home
         href: /
       - text: blog
         href: /blog
   - id: perfiles-externos
-    template: perfilesexternos.ejs
+    template: ../perfilesexternos.ejs
     template-params:
       opcion: none
     contents:
@@ -41,10 +41,10 @@ about:
 ::: {#main-menu}
 :::
 
-<strong>Meto bits a furrular al serviciu de la Ciencia</strong>
+<strong>I make bits work at the service of Science</strong>
 
-Inxenieru n'Informática y funcionariu de carrera.<br/>
-Nos Organismos Públicos d'Investigación dende 2003. Agora nel [Ciemat](https://www.ciemat.es).
+Research Software Engineer and Civil Servant.<br/>
+At Public Research Bodies since 2003. Now at [Ciemat](https://www.ciemat.es/portal.do).
 
 ::: {#perfiles-externos}
 :::

@@ -3,6 +3,20 @@ project:
 
 website:
   title: "Bits in servicio Scientiae"
+  navbar:
+    title: false
+    collapse: false
+    background: rgb(233, 235, 237)
+    right:
+      - icon: "translate"
+        text: " "
+
+      - text: "ast"
+        href: /ast
+      - text: "en"
+        href: /en
+      - text: "es"
+        href: /es
 format:
   html:
     theme: default
@@ -11,4 +25,3 @@ format:
     css: styles.css
     linkcolor: rgb(90, 111, 126)
     fontsize: 110%
-    fontcolor: rgb(23,29,13)
