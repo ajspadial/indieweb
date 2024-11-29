@@ -1,0 +1,27 @@
+---
+title: "Bits in servicio Cienciae"
+subtitle: "Un blog d'Antonio J. Sánchez-Padial"
+lang: ast
+listing:
+  - id: blog
+    contents: posts
+    sort: "date desc"
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: false
+  - id: main-menu
+    template: perfilesexternos.ejs
+    template-params:
+      opcion: blog
+    contents:
+      - text: aniciu
+        href: /
+      - text: blog
+        href: /blog-ast
+page-layout: full
+title-block-banner: false
+---
+
+::: {#main-menu}
+:::

@@ -11,7 +11,7 @@ listing:
       - text: aniciu
         href: /
       - text: blog
-        href: /blog
+        href: /blog-ast
   - id: perfiles-externos
     template: ../perfilesexternos.ejs
     template-params:

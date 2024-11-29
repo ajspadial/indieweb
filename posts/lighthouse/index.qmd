@@ -1,7 +1,7 @@
 ---
 title: "Lighthouse"
 lang: ast
-language: ../../../asturianu.yml
+language: ../../asturianu.yml
 date: "2022-06-18"
 draft: true
 categories: [indieweb]

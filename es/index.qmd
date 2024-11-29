@@ -11,7 +11,7 @@ listing:
       - text: inicio
         href: /es
       - text: blog
-        href: /blog
+        href: /blog-es
   - id: perfiles-externos
     template: ../perfilesexternos.ejs
     template-params:
