@@ -1,0 +1,11 @@
+---
+title: "Crear un proyecto Jakarta EE con Visual Code"
+lang: es
+date: "2022-06-18"
+draft: true
+categories: [java, jakarta ee]
+
+title-block-banner: false
+---
+
+Es fácil con Maven
