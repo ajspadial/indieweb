@@ -9,3 +9,7 @@ title-block-banner: false
 ---
 
 Es fácil con Maven
+
+jakartaee-quickstart-archetype
+
+https://blog.payara.fish/create-a-jakarta-ee-8-web-application-with-payara-server-and-visual-studio-code
